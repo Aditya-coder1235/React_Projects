@@ -1,0 +1,8 @@
+.as{
+    border: 1px solid black;
+    border-radius: 14px;
+    height: 160px;
+    width: 200px;
+    background-color: pink;
+    margin-left: 15px;
+}

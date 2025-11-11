@@ -1,0 +1,45 @@
+.li{
+    background-color: rgb(190, 209, 215);
+    margin-right: 150px
+}
+.btn1{
+    background-color: red;
+    color: white;
+    border: 1px solid black;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+.btnall{
+    margin-top: 10px;
+    margin-right: 20px;
+    background-color: rgb(49, 186, 241);
+      color: white;
+}
+.btn2{
+    border: 1px solid black;
+    margin-right: 10px;
+     background-color: rgb(49, 186, 241);
+      color: white;
+}
+.addbtn{
+    border: 1px solid black;
+    height: 30px;
+    width: 30px;
+    margin-left: 30px;
+    margin-top: 4px;
+   background-color: rgb(49, 186, 241);
+    color: white;
+}
+.inp{
+    background-color:lightgrey;
+    height: 20px;
+    width: 220px ;
+}
+.todos{
+    border: 2px solid black;
+  height: 400px;
+  width: 400px;
+  background-image: url(todoimages.jpg);
+  background-position: center;
+  background-size: cover;
+}
